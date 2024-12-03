@@ -1,0 +1,15 @@
+/home/mymm/UFSCar/ASP/ATA1-Adapter/Adapter/bin/Debug/net8.0/Adapter
+/home/mymm/UFSCar/ASP/ATA1-Adapter/Adapter/bin/Debug/net8.0/Adapter.deps.json
+/home/mymm/UFSCar/ASP/ATA1-Adapter/Adapter/bin/Debug/net8.0/Adapter.runtimeconfig.json
+/home/mymm/UFSCar/ASP/ATA1-Adapter/Adapter/bin/Debug/net8.0/Adapter.dll
+/home/mymm/UFSCar/ASP/ATA1-Adapter/Adapter/bin/Debug/net8.0/Adapter.pdb
+/home/mymm/UFSCar/ASP/ATA1-Adapter/Adapter/obj/Debug/net8.0/Adapter.GeneratedMSBuildEditorConfig.editorconfig
+/home/mymm/UFSCar/ASP/ATA1-Adapter/Adapter/obj/Debug/net8.0/Adapter.AssemblyInfoInputs.cache
+/home/mymm/UFSCar/ASP/ATA1-Adapter/Adapter/obj/Debug/net8.0/Adapter.AssemblyInfo.cs
+/home/mymm/UFSCar/ASP/ATA1-Adapter/Adapter/obj/Debug/net8.0/Adapter.csproj.CoreCompileInputs.cache
+/home/mymm/UFSCar/ASP/ATA1-Adapter/Adapter/obj/Debug/net8.0/Adapter.sourcelink.json
+/home/mymm/UFSCar/ASP/ATA1-Adapter/Adapter/obj/Debug/net8.0/Adapter.dll
+/home/mymm/UFSCar/ASP/ATA1-Adapter/Adapter/obj/Debug/net8.0/refint/Adapter.dll
+/home/mymm/UFSCar/ASP/ATA1-Adapter/Adapter/obj/Debug/net8.0/Adapter.pdb
+/home/mymm/UFSCar/ASP/ATA1-Adapter/Adapter/obj/Debug/net8.0/Adapter.genruntimeconfig.cache
+/home/mymm/UFSCar/ASP/ATA1-Adapter/Adapter/obj/Debug/net8.0/ref/Adapter.dll

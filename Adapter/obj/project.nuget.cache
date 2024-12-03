@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3vTVz+M4eEvN3vijyU2JkbJoduIibRgmig5u8E2IzHyrOChOGB5REUnLPHjx6HB6s3dRgw0EeOcL6sbkvnh3dA==",
+  "success": true,
+  "projectFilePath": "/home/mymm/UFSCar/ASP/ATA1-Adapter/Adapter/Adapter.csproj",
+  "expectedPackageFiles": [
+    "/home/mymm/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
